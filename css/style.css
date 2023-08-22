@@ -194,3 +194,10 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+/* Mailchimo */
+
+#mc_embed_signup form {
+    padding: 0;
+    margin: 0 auto;
+}
